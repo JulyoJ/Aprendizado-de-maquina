@@ -1,6 +1,4 @@
 # Aprendizado-de-maquina
-Atividade_I.ipnyb
-
-HelloWorld.ipnyb
+[Atividade_I.ipnyb](/Atividade_I.ipynb)
 
 
